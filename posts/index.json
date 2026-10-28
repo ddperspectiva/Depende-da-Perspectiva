@@ -1,0 +1,21 @@
+[
+    {
+        "slug":  "o-ruido-e-a-maioria",
+        "titulo":  "O ruído e a maioria",
+        "data":  "2026-10-30",
+        "resumo":  "Quem fala mais alto representa mesmo quem pensa como ele?",
+        "tags":  [
+                     "opinião",
+                     "debate público"
+                 ]
+    },
+    {
+        "slug":  "bem-vindo",
+        "titulo":  "Porquê \"Depende da Perspectiva\"",
+        "data":  "2026-10-28",
+        "resumo":  "Uma explicação rápida do nome e do que aqui se vai escrever.",
+        "tags":  [
+                     "apresentação"
+                 ]
+    }
+]
