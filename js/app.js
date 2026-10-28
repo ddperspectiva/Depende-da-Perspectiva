@@ -45,7 +45,7 @@
   var page = document.body.getAttribute("data-page");
 
   function fetchOrFail(url, asJson) {
-    return fetch(url).then(function (r) {
+    return fetch(url, { cache: "no-cache" }).then(function (r) {
       if (!r.ok) throw new Error(r.status);
       return asJson ? r.json() : r.text();
     });
